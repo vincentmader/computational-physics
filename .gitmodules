@@ -1,0 +1,3 @@
+[submodule "double-pendulum.py"]
+	path = double-pendulum.py
+	url = https://github.com/vincentmader/double-pendulum.py
