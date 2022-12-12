@@ -1,0 +1,9 @@
+* Computational Physics
+
+This repo contains a collection of my implementations for numerical 
+algorithms & visualizations from the field of computational physics.
+
+As of yet, I have (only) uploaded the following projects:
+- [[https://github.com/vincentmader/double-pendulum.py][integration of the eqs. of motion for a double-pendulum (RK4)]]
+
+More to come in the future...
