@@ -1,6 +1,6 @@
 [submodule "double-pendulum.py"]
 	path = double-pendulum.py
 	url = https://github.com/vincentmader/double-pendulum.py
-[submodule "live-random-walk.py"]
-	path = live-random-walk.py
-	url = https://github.com/vincentmader/live-random-walk.py
+[submodule "random-walk_live-plot.py"]
+	path = random-walk_live-plot.py
+	url = https://github.com/vincentmader/random-walk_live-plot.py
