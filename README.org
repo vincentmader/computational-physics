@@ -8,3 +8,11 @@ As of yet, I have (only) uploaded the following projects:
 - [[https://github.com/vincentmader/random-walk_live-plot.py][2D random walk visualization in matplotlib-liveplot]]
 
 More to come in the future...
+
+*** Setup
+To be able to download these projects all at once, run
+#+begin_src shell
+git clone --recurse-submodules https://github.com/vincentmader/computational-physics
+#+end_src shell
+from your shell. The `--recurse-submodules` flag can also be used with the `git pull` 
+command, if you want to get the newest changes to the repository at some point later on.
