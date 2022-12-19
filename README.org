@@ -7,6 +7,7 @@ algorithms & visualizations from the field of computational physics.
 As of yet, I have (only) uploaded the following projects:
 - [[https://github.com/vincentmader/double-pendulum.py][Integration of the equations of motion for a double-pendulum (RK4)]]
 - [[https://github.com/vincentmader/random-walk_live-plot.py][2D random walk visualization in matplotlib-liveplot]]
+- [[https://github.com/vincentmader/gaussian-dice-throws_live-plot.py][Visualization of Gaussian distribution emerging from sum of dice]]
 
 More to come in the future...
 
