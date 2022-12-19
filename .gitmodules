@@ -4,3 +4,6 @@
 [submodule "random-walk_live-plot.py"]
 	path = random-walk_live-plot.py
 	url = https://github.com/vincentmader/random-walk_live-plot.py
+[submodule "gaussian-dice-throws_live-plot.py"]
+	path = gaussian-dice-throws_live-plot.py
+	url = https://github.com/vincentmader/gaussian-dice-throws_live-plot.py
