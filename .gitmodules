@@ -7,3 +7,6 @@
 [submodule "gaussian-dice-throws_live-plot.py"]
 	path = gaussian-dice-throws_live-plot.py
 	url = https://github.com/vincentmader/gaussian-dice-throws_live-plot.py
+[submodule "finite-differences.py"]
+	path = finite-differences.py
+	url = https://github.com/vincentmader/finite-differences.py
