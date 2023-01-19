@@ -9,6 +9,7 @@ As of yet, I have (only) uploaded the following projects:
 - [[https://github.com/vincentmader/random-walk_live-plot.py][2D random walk visualization in matplotlib-liveplot]]
 - [[https://github.com/vincentmader/gaussian-dice-throws_live-plot.py][Visualization of Gaussian distribution emerging from sum of dice]]
 - [[https://github.com/vincentmader/finite-differences.py][Comparison of different finite difference schemes]]
+- [[https://github.com/vincentmader/lax-friedrichs-advection.py][Lax-Friedrichs integration of advection-diffusion equation]]
 
 More to come in the future...
 

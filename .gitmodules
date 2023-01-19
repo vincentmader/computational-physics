@@ -10,3 +10,6 @@
 [submodule "finite-differences.py"]
 	path = finite-differences.py
 	url = https://github.com/vincentmader/finite-differences.py
+[submodule "lax-friedrichs-advection.py"]
+	path = lax-friedrichs-advection.py
+	url = https://github.com/vincentmader/lax-friedrichs-advection.py
