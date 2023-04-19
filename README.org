@@ -11,7 +11,7 @@ As of yet, I have (only) uploaded the following projects:
 - [[https://github.com/vincentmader/finite-differences.py][Comparison of different finite difference schemes]]
 - [[https://github.com/vincentmader/lax-friedrichs-advection.py][Lax-Friedrichs integration of advection-diffusion equation]]
 - [[https://github.com/vincentmader/orbit-precalculations][Orbit Pre-Calculations]]
-- [[https://github.com/vincentmader/Cannonball Trajectories][Cannonball Trajectories]]
+- [[https://github.com/vincentmader/cannonball-trajectories][Cannonball Trajectories]]
 
 More to come in the future...
 
