@@ -13,3 +13,9 @@
 [submodule "lax-friedrichs-advection.py"]
 	path = lax-friedrichs-advection.py
 	url = https://github.com/vincentmader/lax-friedrichs-advection.py
+[submodule "orbit-precalculations"]
+	path = orbit-precalculations
+	url = https://github.com/vincentmader/orbit-precalculations
+[submodule "cannonball-trajectories"]
+	path = cannonball-trajectories
+	url = https://github.com/vincentmader/cannonball-trajectories
