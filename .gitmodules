@@ -19,3 +19,6 @@
 [submodule "cannonball-trajectories"]
 	path = cannonball-trajectories
 	url = https://github.com/vincentmader/cannonball-trajectories
+[submodule "taylor-series-visualization"]
+	path = taylor-series-visualization
+	url = https://github.com/vincentmader/taylor-series-visualization
