@@ -10,8 +10,9 @@ As of yet, I have (only) uploaded the following projects:
 - [[https://github.com/vincentmader/gaussian-dice-throws_live-plot.py][Visualization of Gaussian distribution emerging from sum of dice]]
 - [[https://github.com/vincentmader/finite-differences.py][Comparison of different finite difference schemes]]
 - [[https://github.com/vincentmader/lax-friedrichs-advection.py][Lax-Friedrichs integration of advection-diffusion equation]]
-- [[https://github.com/vincentmader/orbit-precalculations][Orbit Pre-Calculations]]
-- [[https://github.com/vincentmader/cannonball-trajectories][Cannonball Trajectories]]
+- [[https://github.com/vincentmader/orbit-precalculations][Orbit pre-calculations]]
+- [[https://github.com/vincentmader/cannonball-trajectories][Cannonball trajectories]]
+- [[https://github.com/vincentmader/taylor-series-visualization][Visualization of Taylor series' convergence]]
 
 More to come in the future...
 
